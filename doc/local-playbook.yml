@@ -26,7 +26,7 @@ content:
 
 ui:
   bundle:
-    url: https://github.com/boostorg/website-v2-docs/releases/download/ui-master/ui-bundle.zip
+    url: https://github.com/boostorg/website-v2-docs/releases/download/ui-develop/ui-bundle.zip
     snapshot: true
 
 antora:
